@@ -1,13 +1,13 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyBkTuj5s_UFNy31UZIzQaxN00SwES-9f8A",
-  authDomain: "fir-test-bf344.firebaseapp.com",
-  databaseURL: "https://fir-test-bf344.firebaseio.com",
-  projectId: "fir-test-bf344",
-  storageBucket: "fir-test-bf344.appspot.com",
-  messagingSenderId: "796502243563",
-  appId: "1:796502243563:web:f02110e6d62703690526ae",
-  measurementId: "G-P5GQW6YQG2",
+  apiKey: "apiKey",
+  authDomain: "authDomain",
+  databaseURL: "databaseURL",
+  projectId: "projectId",
+  storageBucket: "storageBucket",
+  messagingSenderId: "messagingSenderId",
+  appId: "appId",
+  measurementId: "measurementId",
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
